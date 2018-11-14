@@ -1,11 +1,11 @@
 # Site settings
 author: Corina Talavera
-title: 
+title: Corina's How To Code
 header-img: img/home-bg.png
 email: corina.talavera@gmail.com
 copyright_name: Corina Talavera
 description: > # this means to ignore newlines until "baseurl:"
-  
+  One Journey Into Programming 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Corina-Talavera
